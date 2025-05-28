@@ -11,6 +11,7 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
 ### Data Source 
 
 ### Tools Used [download here](https//www.microsoft.com)
+    Power BI [download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ### Explanatory Data Analysis 
 
