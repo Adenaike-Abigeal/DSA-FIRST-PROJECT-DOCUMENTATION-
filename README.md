@@ -12,6 +12,9 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to m
 
 ### Tools Used [download here](https//www.microsoft.com)
 
+### Explanatory Data Analysis 
+
+
 
 
 
